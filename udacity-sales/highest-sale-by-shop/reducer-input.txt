@@ -1,0 +1,10 @@
+San Jose	214.05
+Fort Worth	153.57
+San Diego	66.08
+Pittsburgh	493.51
+Omaha	235.63
+Stockton	247.18
+Austin	379.6
+New York	296.8
+Corpus Christi	25.38
+Fort Worth	213.88
